@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3793274475020252371
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 633794045657198761, guid: 9f13bd2f67343fa40a1dc11c900debb3,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 13c8c875fd55b8b458fa3c58e666888c, type: 2}
+    - target: {fileID: 4080105044029039391, guid: 9f13bd2f67343fa40a1dc11c900debb3,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4080105044029039391, guid: 9f13bd2f67343fa40a1dc11c900debb3,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4080105044029039391, guid: 9f13bd2f67343fa40a1dc11c900debb3,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -22
+      objectReference: {fileID: 0}
+    - target: {fileID: 4080105044029039391, guid: 9f13bd2f67343fa40a1dc11c900debb3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4080105044029039391, guid: 9f13bd2f67343fa40a1dc11c900debb3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4080105044029039391, guid: 9f13bd2f67343fa40a1dc11c900debb3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4080105044029039391, guid: 9f13bd2f67343fa40a1dc11c900debb3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4080105044029039391, guid: 9f13bd2f67343fa40a1dc11c900debb3,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4080105044029039391, guid: 9f13bd2f67343fa40a1dc11c900debb3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4080105044029039391, guid: 9f13bd2f67343fa40a1dc11c900debb3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4080105044029039391, guid: 9f13bd2f67343fa40a1dc11c900debb3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7392076584358879105, guid: 9f13bd2f67343fa40a1dc11c900debb3,
+        type: 3}
+      propertyPath: m_Name
+      value: brick_wall_3_block_window
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9f13bd2f67343fa40a1dc11c900debb3, type: 3}
